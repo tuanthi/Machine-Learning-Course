@@ -1,0 +1,5 @@
+1. Follow the course in https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/content
+2. Do the exercises in https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/v4/t/lecture/7984298?start=0
+3. Submit your solution as a jupyter notebook (.ipynb) with your name (e.g. tuanthi_numpy_class.ipynb)
+
+

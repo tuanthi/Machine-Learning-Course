@@ -1,0 +1,9 @@
+1. Follow Lecture 1 to 3 in https://www.udemy.com/data-science-linear-regression-in-python/learn/v4/content
+2. Do the exercises in 
+Section 2, Lecture 8: https://tripadvisor.udemy.com/data-science-linear-regression-in-python/learn/v4/t/lecture/9408248?start=0
+3. Understand rewrite the code for
+Section 2, Lecture 11 https://tripadvisor.udemy.com/data-science-linear-regression-in-python/learn/v4/t/lecture/5439188?start=0
+Section 3, Lecture 16 https://tripadvisor.udemy.com/data-science-linear-regression-in-python/learn/v4/t/lecture/3461192?start=0
+Section 3, Lecture 18 https://tripadvisor.udemy.com/data-science-linear-regression-in-python/learn/v4/t/lecture/5439192?start=0
+
+Submit your solution as a jupyter notebook (.ipynb) with your name (e.g. tuanthi_numpy_class.ipynb)
